@@ -190,6 +190,7 @@ export default App;
 ```
 - 컴포넌트가 나타날 때 콘솔에 effect가 나타나고, 사라질 때 cleanup이 나타난다.
 - 렌더링될 때마다 cleanup 함수가 계속 나타난다. 그리고 cleanup 함수가 호출될 때에는 업데이트되기 직전의 값을 보여준다.
+
 [목록으로](#INDEX)
 
 # useReducer
